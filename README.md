@@ -1,3 +1,8 @@
+# P1: Setup and Datagram Sockets
+## STREAMING DATA 44671-80/81FA23
+### Kristen Finley
+### Assignment 1
+
 # streaming-01-getting-started
 
 > Get started with Python for streaming analytics
